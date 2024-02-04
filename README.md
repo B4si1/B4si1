@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**B4si1/B4si1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Basil, a passionate coding hobbyist from the dirt. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [B4si1/CanvasCpi]
+- 🌱 I’m currently learning [HTML and Javascript]
+
+## Projects
+
+Here are some of my notable projects:
+
+- [Project 1]: Brief description and link
+- [Project 2]: Brief description and link
+- ...
+
+## GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=B4si1&show_icons=true&hide=contribs,issues)](https://github.com/B4si1)
+
+
