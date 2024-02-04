@@ -6,7 +6,7 @@ I'm Basil, a passionate coding hobbyist from the dirt. Welcome to my GitHub prof
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=B4si1&show_icons=true&hide=contribs,issues)](https://github.com/B4si1)
 
-## About Me
+## Working
 
 - 🔭 I’m currently working on [CanvasCpi](https://github.com/B4si1/CanvasCpi)
 - 🌱 I’m currently learning HTML and Javascript
