@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Basil, a passionate coding hobbyist from the dirt. Welcome to my GitHub profile!
+Basil, a passionate coding hobbyist from the dirt. Welcome to my GitHub profile!
 
 ## GitHub Stats
 
@@ -8,8 +8,8 @@ I'm Basil, a passionate coding hobbyist from the dirt. Welcome to my GitHub prof
 
 ## Working
 
-- 🔭 I’m currently working on [CanvasCpi](https://github.com/B4si1/CanvasCpi)
-- 🌱 I’m currently learning HTML and Javascript
+- 🔭 Currently working on [CanvasCpi](https://github.com/B4si1/CanvasCpi)
+- 🌱 Currently learning HTML and Javascript
 
 ## Projects
 
