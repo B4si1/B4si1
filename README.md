@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# 🍀 Hello, World! 🍀
 
 Basil, a passionate coding hobbyist from the dirt. Welcome to my GitHub profile!
 
