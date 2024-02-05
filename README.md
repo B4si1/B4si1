@@ -8,7 +8,7 @@ Basil, a passionate coding hobbyist from the dirt. Welcome to my GitHub profile!
 
 ## Working
 
-- 🔭 Currently working on [CanvasCpi](https://github.com/B4si1/CanvasCpi)
+- 🌱 Currently working on [CanvasCpi](https://github.com/B4si1/CanvasCpi)
 - 🌱 Currently learning HTML and Javascript
 
 ## Projects
