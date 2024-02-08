@@ -4,7 +4,7 @@ Basil, a passionate coding hobbyist from the dirt. Welcome to my GitHub profile!
 
 ## GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=B4si1&show_icons=true&hide=contribs,issues)](https://github.com/B4si1)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deadmano&show_icons=true&hide=contribs,issues)](https://github.com/B4si1)
 
 ## Working
 
@@ -20,5 +20,5 @@ Here are some of my notable projects:
 
 
 
-
+B4si1
 
