@@ -8,15 +8,16 @@ Basil, a passionate coding hobbyist from the dirt. Welcome to my GitHub profile!
 
 ## Working
 
-- 🌱 Currently working on [CanvasCpi](https://github.com/B4si1/CanvasCpi)
+- 🌱 Currently working on [weather_app](https://github.com/B4si1/weather_app)
 - 🌱 Currently learning HTML and Javascript
 
 ## Projects
 
 Here are some of my notable projects:
 
-- ✨ [CanvasCpi](https://github.com/B4si1/CanvasCpi): Using canvas and javascript to create particle effects
-- 🌈 [weather_app](https://github.com/B4si1/weather_app): Simple weather app, search by city, get weather info 
+- 🌈 [weather_app](https://github.com/B4si1/weather_app) 🌈 : Simple weather app, search by city, get weather info 
+- ✨ [CanvasCpi](https://github.com/B4si1/CanvasCpi) ✨ : Using canvas and javascript to create particle effects
+
 
 
 
