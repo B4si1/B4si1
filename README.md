@@ -8,12 +8,12 @@ Basil, a passionate coding hobbyist from the dirt. Welcome to my GitHub profile!
 
 ## Working
 
-- 🌱 Currently working on [weather_app](https://github.com/B4si1/weather_app)
+- 🌱 Currently working on [weather_app](https://github.com/B4si1/weather_forecast)
 - 🌱 Currently learning HTML and Javascript
 
 ## Projects
 
 Here is what im working on:
 
-- 🌈 [weather_app](https://github.com/B4si1/weather_app) 🌈 : Simple weather app, search by city, get weather info 
+- 🌈 [weather_app](https://github.com/B4si1/weather_forecast) 🌈 : Simple weather app, search by city, get weather info 
 
